@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2020-09-05T09:17:28.7700027Z"
+    }
+  },
+  "parameters": {
+    "resourceGroup": {
+      "Type": "resourceGroup",
+      "Value": "egiotpf2020jan"
+    },
+    "subscriptionId": {
+      "Type": "subscription",
+      "Value": "d685a1cf-9bbd-4a90-8321-ac54287fb087"
+    }
+  }
+}

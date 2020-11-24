@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=<- your account name ->;AccountKey=<- your account key ->;BlobEndpoint=https://<- your account name ->.blob.core.windows.net/;TableEndpoint=https://<- your account name ->.table.core.windows.net/;QueueEndpoint=https://<- your account name ->.queue.core.windows.net/;FileEndpoint=https://<- your account name ->.file.core.windows.net/",
+    "AzureIoTHubConnectionString": "<- your IoT Hub's Event Hub endpoint connection string ->",
+    "AzureIoTHubServiceConnectionString": "<- your IoT Hub's service and registry readable role's connection string ->",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  }
+}
